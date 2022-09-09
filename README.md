@@ -1,2 +1,5 @@
-# To do List with Javascprit
- A simple to do list with Javapscript
+# To do List
+ A simple to do list made with Javapscript
+ 
+![Screenshot](screenshot.png)
+
